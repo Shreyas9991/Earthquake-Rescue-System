@@ -1,4 +1,5 @@
-********************************* MICROSOFT CODEFUNDO++ *********************
+# MICROSOFT CODEFUNDO++ 
+---------------------------------
 
 TEAM MEMBERS - VAIBHAV MISHRA, SHREYAS MAHAJAN ,GAGANDEEP SINGH
 			
